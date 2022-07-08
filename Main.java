@@ -4,7 +4,8 @@ public class Main {
     int Con;
     int Int;
     int Wiz;
-    
+    int Cha;
+
     System.out.println("escrever:" + Str);
         double random = Math.random();
 }
