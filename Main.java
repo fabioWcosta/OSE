@@ -9,6 +9,5 @@ public class Main {
     System.out.println("escrever:" + Str);
         double random = Math.random()
         //int dice = (int) 1 - (random *(3-18));
-        dice = random;
 }
 
