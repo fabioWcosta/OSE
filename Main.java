@@ -11,4 +11,4 @@ public class Main {
         //int dice = (int) 1 - (random *(3-18));
         dice = random;
 }
-}
+
