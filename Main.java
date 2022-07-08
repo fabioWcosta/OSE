@@ -3,3 +3,5 @@ public class Main {
     int Dex;
     int Con;
 }
+System.out.println("escrever:" + Str);
+        double random = Math.random();
