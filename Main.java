@@ -1,3 +1,5 @@
+import javax.sound.sampled.SourceDataLine;
+
 public class Main {
     int Str = 9;
     int Dex;
@@ -6,8 +8,6 @@ public class Main {
     int Wiz;
     int Cha;
 
-    System.out.println("escrever:" + Str);
-        double random = Math.random()
-        //int dice = (int) 1 - (random *(3-18));
+    System.out.
 }
 
