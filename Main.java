@@ -8,6 +8,6 @@ public class Main {
     int Wiz;
     int Cha;
 
-    System.out.
+    System.out.println("help!");
 }
 
